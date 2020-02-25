@@ -1,4 +1,4 @@
- setwd("C:/Users/miwak/Documents/bruno/rIsInTheAir/")
+ setwd("C:/Users/miwak/Documents/bruno/rIsInTheAir/0_sandbox")
  # Si vous avez quitté R, votre dossier de travail peut avoir été perdu. 
  # Dans le doute, on le redéfinit. Le nom est évidemment à adapter.
  
